@@ -1,5 +1,12 @@
 # Google Photos Picker Sample App
 
+<a href="https://studio.firebase.google.com/import?url=https%3A%2F%2Fgithub.com%2Flamek%2Fphotos-picker-open-fbs">
+  <img
+    height="32"
+    alt="Open in Firebase Studio"
+    src="https://cdn.firebasestudio.dev/btn/open_bright_32.svg">
+</a>
+
 ## Cloud Project Configuration
 
 Ensure that your Google Cloud project is set up following the "Configure your app" guide: [https://developers.google.com/photos/overview/configure-your-app](https://developers.google.com/photos/overview/configure-your-app)
